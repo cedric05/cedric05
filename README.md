@@ -1,5 +1,5 @@
 - 👋 Hi, I’m prasanth
 - 🌱 I’m currently lookging new project gig
-- 💞️ has worked on [dothttp](https://www.dothttp.dev)
+- 💞️ has worked on [dothttp](https://docs.dothttp.dev)
 - 📫 can reach me 6iaux4yra@alias.relay.dothttp.dev
-
+- buy me dosa at patreon.com/prasanth
